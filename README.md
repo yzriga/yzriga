@@ -31,10 +31,10 @@ I enjoy designing and developing systems such as:
 
 ## Featured Projects
 
-### 🔬 Scientific Research Navigator — Multi-Source RAG System
+### 🔬 Scientific Research Navigator - Multi-Source RAG System
 Full-stack AI platform for scientific research exploration using **Django, React, Mistral-7B, and ChromaDB**, with multi-source retrieval and session-isolated vector stores.
 
-### ⚙️ StreamFlow — End-to-End MLOps Platform
+### ⚙️ StreamFlow - End-to-End MLOps Platform
 Complete MLOps pipeline built with **Feast, MLflow, Prefect, FastAPI, Docker, Prometheus, and Grafana** for feature management, orchestration, deployment, and monitoring.
 
 ### 🧠 LLM & Agentic AI
